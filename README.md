@@ -1,9 +1,7 @@
 # Text-to-Image Generation with CLIP and VQGAN
 
-<div align="center">
-  <img src="<img width="633" alt="צילום מסך 2023-07-17 ב-16 30 19" src="https://github.com/shaked32003/Text-to-Image-Generation-with-CLIP-and-VQGAN/assets/96596252/3e6bc712-793a-4443-b237-ffc6aa6d3dd1">
-" alt="Project Logo" width="200" height="200">
-</div>
+<img width="633" alt="צילום מסך 2023-07-17 ב-16 30 19" src="https://github.com/shaked32003/Text-to-Image-Generation-with-CLIP-and-VQGAN/assets/96596252/81918838-dd9f-4eb4-9277-b8ecdbc2ebc7">
+
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FaHoB3cubqadSJenWHADSnb3uRRYd5RD#scrollTo=94fdILI2WBUY)
 
