@@ -56,4 +56,4 @@ To run this project, you can click the "Open in Colab" button at the top of this
 ## Conclusion
 This project demonstrates the capabilities of the CLIP and VQGAN models for text-to-image generation. By leveraging the semantic understanding of CLIP and the generative power of VQGAN, visually coherent images can be created from textual descriptions. The project provides flexibility for experimentation and opens up exciting possibilities for creative applications of text-to-image generation.
 
-[Open in Colab](https://colab.research.google.com/drive/1FaHoB3cubqadSJenWHADSnb3uRRYd5RD#scrollTo=94fdILI2WBUY)
+
