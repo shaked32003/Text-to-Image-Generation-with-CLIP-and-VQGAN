@@ -1,9 +1,9 @@
 # Text-to-Image Generation with CLIP and VQGAN
 
-<img width="633" alt="צילום מסך 2023-07-17 ב-16 30 19" src="https://github.com/shaked32003/Text-to-Image-Generation-with-CLIP-and-VQGAN/assets/96596252/81918838-dd9f-4eb4-9277-b8ecdbc2ebc7">
-
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FaHoB3cubqadSJenWHADSnb3uRRYd5RD#scrollTo=94fdILI2WBUY)
+
+<img width="633" alt="צילום מסך 2023-07-17 ב-16 30 19" src="https://github.com/shaked32003/Text-to-Image-Generation-with-CLIP-and-VQGAN/assets/96596252/81918838-dd9f-4eb4-9277-b8ecdbc2ebc7">
 
 ## Overview
 This project demonstrates how to generate visually coherent images from textual prompts using the CLIP and VQGAN models. By combining the power of natural language processing and computer vision, the models can create stunning images conditioned on the provided text.
